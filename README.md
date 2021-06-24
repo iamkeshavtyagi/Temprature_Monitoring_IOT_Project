@@ -25,4 +25,5 @@
 <h1>Gathering all required components</h1>
 <li>Here is what you need for the project. All of these components are included in the Bolt Starter Kit.</li>
 
-<strong>1.</strong>&nbsp; Bolt WiFi Module
+<strong>1.</strong>&<ul>nbsp; Bolt WiFi Module</ul>
+nbsp;nbsp;nbsp;nbsp;<img src="Bolt_IOT.jpg" alt="IOTt" width="500" height="600">
