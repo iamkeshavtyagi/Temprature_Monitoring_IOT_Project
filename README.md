@@ -25,5 +25,9 @@
 <h1>Gathering all required components</h1>
 <li>Here is what you need for the project. All of these components are included in the Bolt Starter Kit.</li>
 
-<strong>1.</strong>&<ul>nbsp; Bolt WiFi Module</ul>
-nbsp;nbsp;nbsp;nbsp;<img src="Bolt_IOT.jpg" alt="IOTt" width="500" height="600">
+<h5>1. &nbsp; Bolt WiFi Module</h5>
+&nbsp;&nbsp;&nbsp;<img src="Bolt_IOT.jpg" alt="IOTt" width="auto" height="auto">
+
+<h5>2. &nbsp; LM35 IC (Temperature sensor) </h5>
+&nbsp;&nbsp;&nbsp;<img src="LM35.jpeg" alt="IOTt" width="auto" height="auto">
+
