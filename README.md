@@ -149,10 +149,10 @@ Just follow these simple steps:</p>
   
   <p>Now you will be presented with a variety of graphs to choose from. Choose the "Line Graph" and then click on the "Import" button.</p>
   
-        
+        ![8](https://user-images.githubusercontent.com/60292531/131214602-01590ea8-d9ad-43b5-80d6-c47c97eecaf7.jpg)
 
   <p>Now let me explain each line of the code so that you could make suitable changes as you wish.</p>
-
+![9](https://user-images.githubusercontent.com/60292531/131214605-1074a17d-a3b6-4355-9d3c-c757e0a5a4c7.jpg)
 
   <p><em> setChartLibrary </em> function sets the Data Visualisation Library you would use. The most commonly used one on Bolt Cloud is the Google Library. However, you could use any other JavaScript or HTML code here to visualise the data.</p><br>
 
@@ -163,4 +163,56 @@ Just follow these simple steps:</p>
 <p><em>setAxisName </em>will set the name for the X Axis and Y Axis</p><br>
 
 <p><em>plotChart</em> is where you choose which variable you want to choose in your chart.</p>
+
+<p>7.Next, we will need to convert the raw sensor value received to degrees. For this, we will need to multiply the raw sensor value with 0.0977. An explanation for this is given towards the end of the project.</p>
+ 
+ <article><p>For multiplication, we use the 'mul' function. Just enter the line mul(0.0977) before the plotChart function. This will multiply the sensor value received with the multiplication factor.
+
+📘
+Converting Temperature reading to Fahrenheit
+
+The formula for converting temperature from Celcius to Fahrenheit is,
+F = 1.8*C + 32
+
+So, to show the reading in Fahrenheit, we will need to multiply the sensor reading by 1.8 and add 32 to it.
+
+NOTE: There is a minor issue in our graph library which causes an error in calculation. Hence we have made some modifications to the conversion formula to handle the error offset in the code below.
+
+Hence the code for this, will look similar to,
+
+setChartLibrary('google-chart');
+setChartTitle('Your Graph Title');
+setChartType('lineGraph');
+add(183);
+mul(0.0977);
+mul(1.8);
+plotChart('time_stamp','temperature');</article></p>
+
+![10](https://user-images.githubusercontent.com/60292531/131214609-c3632621-ae5b-41e1-9253-b9fdbfd60385.jpg)
+
+<p>9.Now write the file name for your code and choose the file extension as "js" </p>
+<br>
+<p>9.Finally, click on the "Save" icon to save the changes to the product.
+
+Now, our product configuration is ready, but we need to "link" a bolt device to the product so that the Bolt can actually start sending temperature data. </p>
+
+![11](https://user-images.githubusercontent.com/60292531/131214611-a23bfb79-9c78-411b-9a14-c35d90d36470.jpg)
+
+<br>
+
+![12](https://user-images.githubusercontent.com/60292531/131214612-34cebd37-2352-41a5-8e43-65a78ffe519e.jpg)
+
+<br>
+![13](https://user-images.githubusercontent.com/60292531/131214619-ded87aca-3d01-42f3-bc14-454fcf9eb467.jpg)
+
+<br>
+![14](https://user-images.githubusercontent.com/60292531/131214616-7134a134-eeed-4e7f-b2fc-a9dc40fce4b7.jpg)
+<br>
+![15](https://user-images.githubusercontent.com/60292531/131214618-cff16d06-16ce-4364-bd54-9bc4977c9fea.jpg)
+
+<br>
+
+<p>10. That's great you say. Now how do I see the temperature? For this, you will need to click on the "Computer Monitor" icon on your Bolt device.
+</p>
+![16](https://user-images.githubusercontent.com/60292531/131214621-19aa301a-2e00-4b89-8fc9-26d3ea2e44fd.jpg)
   
