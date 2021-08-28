@@ -149,11 +149,11 @@ Just follow these simple steps:</p>
   
   <p>Now you will be presented with a variety of graphs to choose from. Choose the "Line Graph" and then click on the "Import" button.</p>
   
-        ![8](https://user-images.githubusercontent.com/60292531/131214602-01590ea8-d9ad-43b5-80d6-c47c97eecaf7.jpg)
-
+ ![8](https://user-images.githubusercontent.com/60292531/131214602-01590ea8-d9ad-43b5-80d6-c47c97eecaf7.jpg)
   <p>Now let me explain each line of the code so that you could make suitable changes as you wish.</p>
-![9](https://user-images.githubusercontent.com/60292531/131214605-1074a17d-a3b6-4355-9d3c-c757e0a5a4c7.jpg)
 
+![9](https://user-images.githubusercontent.com/60292531/131214605-1074a17d-a3b6-4355-9d3c-c757e0a5a4c7.jpg)
+ 
   <p><em> setChartLibrary </em> function sets the Data Visualisation Library you would use. The most commonly used one on Bolt Cloud is the Google Library. However, you could use any other JavaScript or HTML code here to visualise the data.</p><br>
 
   <p><em>setChartTitle</em> function sets the Title of the Chart/Graph. Give a suitable name for your graph here which will be shown in the heading of the page. This is different from the name of the code file.</em></p><br>
