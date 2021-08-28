@@ -67,3 +67,12 @@
 </table>
 
 <p>Here is the same pin connections are shown in form of a circuit diagram.</p>
+
+&nbsp;&nbsp;&nbsp;<img src="Fritzing diagram for LM35 to Bolt connection.jpeg" alt="IOTt" width="auto" height="auto">
+
+<strong><h3>Step 1: Take three male to female wires of three different colours. Different colours will help us avoiding confusion.</h3></strong>
+
+<p>You will also require the Bolt WiFi module and LM35 sensor.</p>
+
+&nbsp;&nbsp;&nbsp;<img src="components.jpeg" alt="IOTt" width="auto" height="auto">
+
