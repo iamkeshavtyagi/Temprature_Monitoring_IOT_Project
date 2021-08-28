@@ -217,4 +217,4 @@ Now, our product configuration is ready, but we need to "link" a bolt device to 
 ![16](https://user-images.githubusercontent.com/60292531/131214621-19aa301a-2e00-4b89-8fc9-26d3ea2e44fd.jpg)
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jQ8dZwTw8wQ)](https://www.youtube.com/watch?v=jQ8dZwTw8wQ)
+[![Temprature_Monitoring_IOT_Project](https://img.youtube.com/vi/jQ8dZwTw8wQ)](https://www.youtube.com/watch?v=jQ8dZwTw8wQ)
