@@ -77,3 +77,45 @@
 &nbsp;&nbsp;&nbsp;<img src="Components.jpg" alt="IOTt" width="auto" height="auto">
 
 <strong><h3>Step 2: Plug the female end of the wires to the pins of the LM35 sensor.</h3></strong>
+&nbsp;&nbsp;&nbsp;<img src="Connecting_LM35_to_jumper_wire.jpg" alt="IOTt" width="auto" height="auto">
+
+<strong><h3>Step 3: Now we need to connect these ends of the LM35 sensor to the corresponding end of the Bolt WiFi module.</h3></strong>
+<ul>
+  <li>Connect the VCC pin of LM35 to 5V pin of the Bolt device.</li>
+  <li>Connect the GND pin of LM35 to the GND pin of the Bolt device.</li>
+  <li>Connect the analog output pin of LM35 to the A0 (analog input) pin of the Bolt device.<li>
+  </ul>
+&nbsp;&nbsp;&nbsp;<img src="Connecting_jumper_to_BOLT.jpg" alt="IOTt" width="auto" height="auto">
+  
+ <strong><h3>The colours will help you identify if you have connected the correct wire to the pins of the LM35 and Bolt WiFi module.
+Here is how it will look. 👇 </h3></strong>
+
+&nbsp;&nbsp;&nbsp;<img src="LM35_connection_to_Bolt.jpg" alt="IOTt" width="auto" height="auto">
+
+
+<strong><h2>Check before you power on 👀
+Make sure connections are made accurately. Ideally, review them again. Wrong connections can lead to a short circuit which can further lead to the device getting damaged permanently.</h2></strong>
+
+ <strong><h3>Step 5: Power on the Bolt device</h3></strong>
+ &nbsp;&nbsp;&nbsp;<img src="Ready_Circuit.jpg" alt="IOTt" width="auto" height="auto">
+
+<p>Now your circuit is ready. 🎉
+
+In the next step, we will be to work on the software and cloud configuration.</p>
+ 
+ <strong><h3>Part B: Connect your Bolt device to the Bolt Cloud</h3></strong>
+ 
+<p>Skip this step, if you already know how to connect your Bolt device to the Bolt Cloud. To check if it is connected to Cloud, have a look at the green coloured Cloud LED on the Bolt WiFi module. It should be glowing.
+
+Follow the steps in this project to set up the device and to connect your Bolt device to the Bolt Cloud.<
+  /p>
+  
+  <strong><h3>Part C: Collecting and visualising the data (Plotting Graph) on the Bolt Cloud</h3></strong>
+  
+  <p>Now we need to visualise the temperature data on the Bolt Cloud. For this create an account on cloud.boltiot.com if you have not already.
+
+Just follow these simple steps:</p>
+  
+  <strong>Login into cloud.boltiot.com and click on the 'Product' tab.</strong>
+  
+  
