@@ -74,5 +74,6 @@
 
 <p>You will also require the Bolt WiFi module and LM35 sensor.</p>
 
-&nbsp;&nbsp;&nbsp;<img src="components.jpeg" alt="IOTt" width="auto" height="auto">
+&nbsp;&nbsp;&nbsp;<img src="Components.jpg" alt="IOTt" width="auto" height="auto">
 
+<strong><h3>Step 2: Plug the female end of the wires to the pins of the LM35 sensor.</h3></strong>
