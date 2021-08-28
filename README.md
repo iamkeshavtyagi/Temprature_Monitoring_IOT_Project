@@ -127,9 +127,9 @@ Just follow these simple steps:</p>
 
   <em> Note: Product names can only have alphabets, numbers, and underscore ( _ ) as a special character. Spaces are not allowed.</em>
   
-   &nbsp;&nbsp;&nbsp;<img src="Add_device2.jpeg" alt="IOTt" width="auto" height="auto">
+   &nbsp;&nbsp;&nbsp;<img src="Add_device2.jpg" alt="IOTt" width="auto" height="auto">
   
-   &nbsp;&nbsp;&nbsp;<img src="Product_Name3.jpeg" alt="IOTt" width="auto" height="auto">
+   &nbsp;&nbsp;&nbsp;<img src="Product_Name3.jpg" alt="IOTt" width="auto" height="auto">
   
   <p>3. Click on Configure this product to configure the product. This will open a popup where you can configure your products hardware setting and write the software code.</p>
   
@@ -149,7 +149,7 @@ Just follow these simple steps:</p>
   
   <p>Now you will be presented with a variety of graphs to choose from. Choose the "Line Graph" and then click on the "Import" button.</p>
   
-         &nbsp;&nbsp;&nbsp;<img src="8.jpg" alt="IOTt" width="auto" height="auto">
+        
 
   <p>Now let me explain each line of the code so that you could make suitable changes as you wish.</p>
 
