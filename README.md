@@ -1,5 +1,7 @@
 # Temprature_Monitoring_IOT_Project
 
+ 
+
 <h3>Things used in this project</h3>
 <li>Hardware components</li>
 <li>Bolt IoT Bolt WiFi Module</li>
@@ -135,20 +137,21 @@ Just follow these simple steps:</p>
   
   <p>4. Click on the "A0" pin of the Bolt and give it a name in the right side naming section. Finally, click on the "Save" icon to save your change and wait for the page to reload.</p>
   
-     &nbsp;&nbsp;&nbsp;<img src="5.jpg" alt="IOTt" width="auto" height="auto">
-  <p>5.Click on the Code Section then click on the "Import Code example" icon as shown below. This will open a pop-up menu where you can choose the variable. In this code since we have connected only one sensor, you could simply choose the only variable in the dropdown and press OK.
- </p>
+   &nbsp;&nbsp;&nbsp;<img src="5.jpg"alt="IOTt"width="auto"height="auto">
+  
+  <p>5.Click on the Code Section then click on the "Import Code example" icon as shown below. This will open a pop-up menu where you can choose the variable. In this code since we have connected only one sensor, you could simply choose the only variable in the dropdown and press OK.</p>
   
        &nbsp;&nbsp;&nbsp;<img src="6.jpg" alt="IOTt" width="auto" height="auto">
-<br>
+
        &nbsp;&nbsp;&nbsp;<img src="7.jpg" alt="IOTt" width="auto" height="auto">
+  
   <p>Now you will be presented with a variety of graphs to choose from. Choose the "Line Graph" and then click on the "Import" button.</p>
   
          &nbsp;&nbsp;&nbsp;<img src="8.jpg" alt="IOTt" width="auto" height="auto">
 
-  <p>Now let me explain each line of the code so that you could make suitable changes as you wish.
+  <p>Now let me explain each line of the code so that you could make suitable changes as you wish.</p>
 
-</p>
+
   <p><em> setChartLibrary </em> function sets the Data Visualisation Library you would use. The most commonly used one on Bolt Cloud is the Google Library. However, you could use any other JavaScript or HTML code here to visualise the data.</p><br>
 
   <p><em>setChartTitle</em> function sets the Title of the Chart/Graph. Give a suitable name for your graph here which will be shown in the heading of the page. This is different from the name of the code file.</em></p><br>
