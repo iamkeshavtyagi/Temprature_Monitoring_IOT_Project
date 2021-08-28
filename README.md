@@ -137,15 +137,15 @@ Just follow these simple steps:</p>
   
   <p>4. Click on the "A0" pin of the Bolt and give it a name in the right side naming section. Finally, click on the "Save" icon to save your change and wait for the page to reload.</p>
   
-   &nbsp;&nbsp;&nbsp;<img src="5.jpg"alt="IOTt"width="auto"height="auto">
+   
   
   <p>5.Click on the Code Section then click on the "Import Code example" icon as shown below. This will open a pop-up menu where you can choose the variable. In this code since we have connected only one sensor, you could simply choose the only variable in the dropdown and press OK.</p>
   
       
  ![6](https://user-images.githubusercontent.com/60292531/131214441-6317ede4-e4ae-4d2c-befa-98626dbf19db.jpg)
 
-
-      
+ 
+![7](https://user-images.githubusercontent.com/60292531/131214479-a8429fec-dac4-483d-9c3a-f4c0478f133f.jpg)
   
   <p>Now you will be presented with a variety of graphs to choose from. Choose the "Line Graph" and then click on the "Import" button.</p>
   
