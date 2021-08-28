@@ -31,3 +31,13 @@
 <h5>2. &nbsp; LM35 IC (Temperature sensor) </h5>
 &nbsp;&nbsp;&nbsp;<img src="LM35.jpeg" alt="IOTt" width="auto" height="auto">
 
+
+<p>Before we move to Step 1 make sure that your Blit WiFi Module is connected to Bolt Cloud and the green LED on Bolt Module is Glowing .If not then follow the steps in this project to set up the device.</p>
+
+<b>Part A: Building the circuit</b>
+<b>Switch off before you get started</b>
+<p>Make sure you have not powered on your Bolt Module while connecting the circuit. This will ensure that in case we make any mistake, it will not short circuit your device. Switch off the power if it is connected.</p>
+
+<p>Here is the pinout of the LM35 sensor. We need to connect the pins to the Bolt WiFi module accordingly.</p>
+&nbsp;&nbsp;&nbsp;<img src="LM35.jpeg" alt="IOTt" width="auto" height="auto">
+
