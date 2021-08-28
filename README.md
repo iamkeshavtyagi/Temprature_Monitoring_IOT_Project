@@ -127,9 +127,9 @@ Just follow these simple steps:</p>
 
   <em> Note: Product names can only have alphabets, numbers, and underscore ( _ ) as a special character. Spaces are not allowed.</em>
   
-   &nbsp;&nbsp;&nbsp;<img src="Add_device.jpeg" alt="IOTt" width="auto" height="auto">
+   &nbsp;&nbsp;&nbsp;<img src="Add_device2.jpeg" alt="IOTt" width="auto" height="auto">
   
-   &nbsp;&nbsp;&nbsp;<img src="Product_Name.jpeg" alt="IOTt" width="auto" height="auto">
+   &nbsp;&nbsp;&nbsp;<img src="Product_Name3.jpeg" alt="IOTt" width="auto" height="auto">
   
   <p>3. Click on Configure this product to configure the product. This will open a popup where you can configure your products hardware setting and write the software code.</p>
   
@@ -137,7 +137,7 @@ Just follow these simple steps:</p>
   
   <p>4. Click on the "A0" pin of the Bolt and give it a name in the right side naming section. Finally, click on the "Save" icon to save your change and wait for the page to reload.</p>
   
-   
+   ![5](https://user-images.githubusercontent.com/60292531/131214532-5443d720-95e6-42b7-ace4-f2d944674cca.jpg)
   
   <p>5.Click on the Code Section then click on the "Import Code example" icon as shown below. This will open a pop-up menu where you can choose the variable. In this code since we have connected only one sensor, you could simply choose the only variable in the dropdown and press OK.</p>
   
