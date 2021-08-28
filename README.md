@@ -39,5 +39,31 @@
 <p>Make sure you have not powered on your Bolt Module while connecting the circuit. This will ensure that in case we make any mistake, it will not short circuit your device. Switch off the power if it is connected.</p>
 
 <p>Here is the pinout of the LM35 sensor. We need to connect the pins to the Bolt WiFi module accordingly.</p>
-&nbsp;&nbsp;&nbsp;<img src="LM35.jpeg" alt="IOTt" width="auto" height="auto">
+&nbsp;&nbsp;&nbsp;<img src="LM35_PinOut.jpeg" alt="IOTt" width="auto" height="auto">
 
+<p>Connect the pins as given in the table below.</p>
+
+<table>
+  <tr>
+    <th>LM35 Pin</th>
+    <th>Corresponding Bolt WiFi Module Pin</th>
+    <th>Comment</th>
+  </tr>
+  <tr>
+    <td>Vs Supply Voltage</td>
+    <td>5V</td>
+    <td>	LM35 sensor operates at 5V</td>
+  </tr>
+  <tr>
+    <td>Vout - Output</td>
+    <td>A0</td>
+    <td>Since the output is analog and A0 is the only pin on Bolt WiFi module that can read an analog input.</td>
+  </tr>
+  <tr>
+    <td>GND Ground</td>
+    <td>GND Ground</td>
+    <td>The ground pin of the LM35 to be connected to the ground pin of Bolt WiFi module</td>
+  </tr>
+</table>
+
+<p>Here is the same pin connections are shown in form of a circuit diagram.</p>
