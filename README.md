@@ -118,4 +118,44 @@ Just follow these simple steps:</p>
   
   <strong>Login into cloud.boltiot.com and click on the 'Product' tab.</strong>
   
+   &nbsp;&nbsp;&nbsp;<img src="Go_To_Product_Tab.jpeg" alt="IOTt" width="auto" height="auto">
+  
+  <p>2. Create a new product for your temperature monitoring system. Products are created once and can be used for multiple Bolt devices. This ensures scalability for your IoT products you build on Bolt.
+</p>
+
+  <em> Note: Product names can only have alphabets, numbers, and underscore ( _ ) as a special character. Spaces are not allowed.</em>
+  
+   &nbsp;&nbsp;&nbsp;<img src="Add_device.jpeg" alt="IOTt" width="auto" height="auto">
+  
+   &nbsp;&nbsp;&nbsp;<img src="Product_Name.jpeg" alt="IOTt" width="auto" height="auto">
+  
+  <p>3. Click on Configure this product to configure the product. This will open a popup where you can configure your products hardware setting and write the software code.</p>
+  
+   &nbsp;&nbsp;&nbsp;<img src="4.jpg" alt="IOTt" width="auto" height="auto">
+  
+  <p>4. Click on the "A0" pin of the Bolt and give it a name in the right side naming section. Finally, click on the "Save" icon to save your change and wait for the page to reload.</p>
+  
+     &nbsp;&nbsp;&nbsp;<img src="5.jpg" alt="IOTt" width="auto" height="auto">
+  <p>5.Click on the Code Section then click on the "Import Code example" icon as shown below. This will open a pop-up menu where you can choose the variable. In this code since we have connected only one sensor, you could simply choose the only variable in the dropdown and press OK.
+ </p>
+  
+       &nbsp;&nbsp;&nbsp;<img src="6.jpg" alt="IOTt" width="auto" height="auto">
+<br>
+       &nbsp;&nbsp;&nbsp;<img src="7.jpg" alt="IOTt" width="auto" height="auto">
+  <p>Now you will be presented with a variety of graphs to choose from. Choose the "Line Graph" and then click on the "Import" button.</p>
+  
+         &nbsp;&nbsp;&nbsp;<img src="8.jpg" alt="IOTt" width="auto" height="auto">
+
+  <p>Now let me explain each line of the code so that you could make suitable changes as you wish.
+
+</p>
+  <p><em> setChartLibrary </em> function sets the Data Visualisation Library you would use. The most commonly used one on Bolt Cloud is the Google Library. However, you could use any other JavaScript or HTML code here to visualise the data.</p><br>
+
+  <p><em>setChartTitle</em> function sets the Title of the Chart/Graph. Give a suitable name for your graph here which will be shown in the heading of the page. This is different from the name of the code file.</em></p><br>
+
+<p><em>setChartType</em> function is where you choose which type of chart you want i.e. Line Graph, Bar Graph etc.</p><br>
+
+<p><em>setAxisName </em>will set the name for the X Axis and Y Axis</p><br>
+
+<p><em>plotChart</em> is where you choose which variable you want to choose in your chart.</p>
   
