@@ -141,9 +141,11 @@ Just follow these simple steps:</p>
   
   <p>5.Click on the Code Section then click on the "Import Code example" icon as shown below. This will open a pop-up menu where you can choose the variable. In this code since we have connected only one sensor, you could simply choose the only variable in the dropdown and press OK.</p>
   
-       &nbsp;&nbsp;&nbsp;<img src="6.jpg" alt="IOTt" width="auto" height="auto">
+      
+ ![6](https://user-images.githubusercontent.com/60292531/131214441-6317ede4-e4ae-4d2c-befa-98626dbf19db.jpg)
 
-       &nbsp;&nbsp;&nbsp;<img src="7.jpg" alt="IOTt" width="auto" height="auto">
+
+      
   
   <p>Now you will be presented with a variety of graphs to choose from. Choose the "Line Graph" and then click on the "Import" button.</p>
   
